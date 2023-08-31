@@ -1,0 +1,11 @@
+{
+  "app_title" : "News",
+  "english" : "English" ,
+  "arabic": "Arabic",
+  "light" : "Light",
+  "dark" : "Dark",
+  "system" : "System",
+  "settings" : "ٍSettings",
+  "language" : "Language",
+  "theme": "Theme"
+}
